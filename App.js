@@ -4,8 +4,6 @@ import "./App.css";
 import Form from "./components/Form";
 import TodoList from "./components/TodoList";
 
-//www.youtube.com/watch?v=pCA4qpQDZD8&ab_channel=DevEd
-
 function App() {
   // States
   const [inputText, setInputText] = useState("");
